@@ -1,0 +1,10 @@
+*DS*
+.idea/
+.pre-commit-config.yaml
+LICENSE
+data
+mmdet.egg-info/
+pytest.ini
+work_dirs
+trained_models_det/
+*pkl
